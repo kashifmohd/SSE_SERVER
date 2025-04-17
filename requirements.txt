@@ -1,4 +1,7 @@
-fastapi
+# requirements.txt
+mcp[cli]
 uvicorn
-mcp
 starlette
+requests
+geopy
+
